@@ -6,7 +6,7 @@
   
 Concevoir et développer une solution qui garantira l'authenticité du savoir des apprenants, tout en évitant les pièges de l'utilisation abusive de l'intelligence artificielle. <br>
 <hr>
-Pour réaliser le projet, nous devons utiliser **Node.js** et **Express** pour le backend, et recourir à une base de données. Soit **Supabase **ou **Firebase** pour gérer vos données de façon efficace et sécurisée. Concernant le front-end, nous devons utiliser **JavaScript**,** HTML** et **CSS** , ou des Framework s'ils l'ont sais les utiliser correctement🌐💻
+Pour réaliser le projet, nous devons utiliser Node.js et Express pour le backend, et recourir à une base de données. Soit Supabase ou Firebase pour gérer vos données de façon efficace et sécurisée. Concernant le front-end, nous devons utiliser JavaScript, HTML et CSS, ou des Framework s'ils l'ont sais les utiliser correctement🌐💻
 
 ## 🛠️ Tech Stack
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
