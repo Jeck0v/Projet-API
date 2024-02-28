@@ -10,7 +10,7 @@ Maquettage -
 ==========
 Développement du Projet :
   - Front : HTML / CSS / JS
-  - Back : NodeJS / Supabase ou Firebase
+  - Back : NodeJS / Supabase ou Firebase (pour les BDD)
 
 Sécurisation - 
 Phase de Test 
