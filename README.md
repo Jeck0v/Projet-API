@@ -1,3 +1,4 @@
+
 # <p align="center">Projet API Front + Back</p>
   
 
@@ -26,5 +27,14 @@ Afin de ne pas influencer le choix des utilisateurs lors de la notation de la qu
 Si les utilisateurs veulent poster leur propre code ils n'auront qu'à appuyer sur un bouton qui créera une fenêtre où il pourra écrire son code (le code ne sera pas éxécuter, il ne sera qu'afficher) 
 <hr>
 <p> Déroulement de la Concepetion :</p>
-Création de l' [use case](https://iparnet.fr/un-cas-dutilisation-ou-use-case-a-quoi-ca-sert/)
+Création de l' Use Case qui nous permettra de mieux décrire comment l'utilisateur interagit avec le système:
 
+- [Use Case](https://iparnet.fr/un-cas-dutilisation-ou-use-case-a-quoi-ca-sert/) <br>
+
+Création du diagramme de séquence:
+
+Création du driagramme d'activité:
+        
+
+
+        
