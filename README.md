@@ -17,15 +17,15 @@ Pour réaliser le projet, nous devons utiliser Node.js et Express pour le backen
 - [Supabase](https://supabase.com/)
     
 <hr>
-<p> Mise en pause du projet pour s'allier avec un autre groupe pour être sûr de rendre un vrai projet fini.</p>
+<p> Mise en pause du projet pour s'allier avec un autre groupe pour être sûr de rendre un vrai projet fini.</p> <br>
 Github du projet: https://github.com/Oomaxime/NOGPT-QUIZZ
 
 <br>
 ## ❤️ Support  
-Une simple étoile vers le repo de ce projet suffit à me motiver sur ce projet pendant des jours. Si le projet vous plait n'hésiter pas !
-## 🙇 Auteurs
-#### Arnaud Fischer & Alexis Gontier
-- Github d'Alexis: [@Alexis-Gontier](https://github.com/Alexis-Gontier)
+Une simple étoile vers le repo de ce projet suffit à me motiver sur ce projet pendant des jours. Si le projet vous plait n'hésiter pas ! <br>
+## 🙇 Auteurs <br>
+#### Arnaud Fischer & Alexis Gontier <br>
+- Github d'Alexis: [@Alexis-Gontier](https://github.com/Alexis-Gontier) <br>
 - Github d'Arnaud: [@Jeck0v](https://github.com/Jeck0v)
         
 
