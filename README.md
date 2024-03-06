@@ -19,6 +19,8 @@ Pour réaliser le projet, nous devons utiliser Node.js et Express pour le backen
 <hr>
 <p> Mise en pause du projet pour s'allier avec un autre groupe pour être sûr de rendre un vrai projet fini.</p>
 Github du projet: [NoGPT-Quizz](https://github.com/Oomaxime/NOGPT-QUIZZ)
+
+<br>
 ## ❤️ Support  
 Une simple étoile vers le repo de ce projet suffit à me motiver sur ce projet pendant des jours. Si le projet vous plait n'hésiter pas !
 ## 🙇 Auteurs
