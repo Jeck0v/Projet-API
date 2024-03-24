@@ -25,12 +25,12 @@ Une simple étoile vers le repo de ce projet suffit à me motiver sur ce projet 
 🙇 Auteurs <br>
 Arnaud Fischer, Alexis Gontier, Mikaël Hais, Jacque Chen, Louis Dondey, Maxime Bidan <br>
 
-- Github d'Arnaud: [@Jeck0v](https://github.com/Jeck0v)
-- Github d'Alexis: [@Alexis-Gontier](https://github.com/Alexis-Gontier) <br>  https://github.com/MickaHais
-- Github de Mikaël: [@MickaHais](https://github.com/MickaHais)
-- Github de Jacque: [@Epiniac](https://github.com/Epiniac)
-- Github de Louis: [@Kae134](https://github.com/Kae134)
-- Github de Maxime: [@Oomaxime](https://github.com/Oomaxime) 
+- Github d'Arnaud: [@Jeck0v](https://github.com/Jeck0v)  <br> 
+- Github d'Alexis: [@Alexis-Gontier](https://github.com/Alexis-Gontier) <br> 
+- Github de Mikaël: [@MickaHais](https://github.com/MickaHais)  <br> 
+- Github de Jacque: [@Epiniac](https://github.com/Epiniac)  <br> 
+- Github de Louis: [@Kae134](https://github.com/Kae134)  <br> 
+- Github de Maxime: [@Oomaxime](https://github.com/Oomaxime)  <br> 
         
 
         
